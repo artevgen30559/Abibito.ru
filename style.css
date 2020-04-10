@@ -1,0 +1,33 @@
+.register-form,
+.auth-form {
+	width: 600px;
+}
+
+form h3 {
+	margin-bottom: 30px;
+}
+
+.alert {
+	position: absolute;
+	width: 100%;
+	top: 0;
+}
+
+.article-list {
+	margin-top: 50px;
+}
+
+.box {
+	position: relative;
+	width: 100%;
+	height: 300px;
+	overflow: hidden;
+}
+
+.article-list img {
+	position: absolute;
+	width: 100%;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
